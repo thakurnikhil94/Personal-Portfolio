@@ -33,7 +33,6 @@ It is designed to help recruiters, collaborators, and professionals understand m
 - Clean and structured layout  
 
 ---
-### 🔹 Screenshots
 
 
 ## 🔧 How to Run Locally
