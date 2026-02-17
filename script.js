@@ -193,7 +193,7 @@ contactForm.addEventListener('submit', async (e) => {
 
     try {
       // Formspree endpoint
-    const response = await fetch('https://formspree.io/f/mpwokqnk', {
+    const response = await fetch('use your link from Formspree here', { // use personal link
         method: 'POST',
         body: formData,
         headers: { 'Accept': 'application/json' }
